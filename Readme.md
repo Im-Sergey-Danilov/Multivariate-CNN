@@ -18,7 +18,7 @@ user can easily get the condition of a bearing. <br>
 </pre>
 <br>
 Block scheme of algorithm <br>
-<img src="assets/concept_of_nn.png)
+<img src="assets/concept_of_nn.png
 
 # Get started
 use pip to install requirements for this project. Don't forget to upgrade pip
