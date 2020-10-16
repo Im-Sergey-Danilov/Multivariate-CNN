@@ -19,7 +19,7 @@ user can easily get the condition of a bearing. <br>
  
 </pre>
 <br>
-Block scheme of algorithm <br>
+Block scheme of algorithm: <br>
 <br>
 <img src="assets/concept_of_nn.png">
 
