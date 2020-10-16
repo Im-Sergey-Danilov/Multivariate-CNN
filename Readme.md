@@ -4,6 +4,7 @@ classes and their spectrograms of bearings given in the dataset.
 Dataset is the set of data, which contains 168 classes. Each of
 those classes represents a certain condition of bearing (Forces and revolutions).  
 Layers of the multivariate convolutional neural network: <br>
+<br>
 <img src="assets/layers.png">
 
 Using either the following table (description_of_data.xlsx) or dataframe.py file
