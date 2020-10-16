@@ -5,12 +5,10 @@ Dataset is the set of data, which contains 168 classes. Each of
 those classes represents a certain condition of bearing (Forces and revolutions).  
 Layers of the multivariate convolutional neural network: <br>
 <img src="assets/layers.png">
-![picture](assets/layers.png)
 
 Using either the following table (description_of_data.xlsx) or dataframe.py file
 user can easily get the condition of a bearing. <br>
 <img src="assets/table.png">  
-![picture](assets/table.png)
 <br>
 <pre>
 1. class № 3 = Forces (Axial = 0N, Radial = 0N) Revolutions = 300rpm
