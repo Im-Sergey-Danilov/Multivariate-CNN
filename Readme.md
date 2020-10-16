@@ -1,4 +1,4 @@
-#Convolutional Neural Network
+# Convolutional Neural Network
 Developed neural network is supposed to distinguish between
 classes and their spectrograms of bearings given in the dataset.  
 Dataset is the set of data, which contains 168 classes. Each of
