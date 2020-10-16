@@ -9,6 +9,7 @@ Layers of the multivariate convolutional neural network: <br>
 
 Using either the following table (description_of_data.xlsx) or dataframe.py file
 user can easily get the condition of a bearing. <br>
+<br>
 <img src="assets/table.png">  
 <br>
 <pre>
@@ -19,6 +20,7 @@ user can easily get the condition of a bearing. <br>
 </pre>
 <br>
 Block scheme of algorithm <br>
+<br>
 <img src="assets/concept_of_nn.png">
 
 # Get started
